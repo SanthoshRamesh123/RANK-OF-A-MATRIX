@@ -18,6 +18,7 @@ import numpy as np
 A=np.array([[3,2,5],[1,1,2],[3,3,6]])
 solution=np.linalg.matrix_rank(A)
 print(solution)
+~~~
 ## Output:
 <img width="1316" height="717" alt="Screenshot 2025-10-15 182520" src="https://github.com/user-attachments/assets/d20b7bbf-9a55-44eb-8101-96201e446ca9" />
 ## Result:
